@@ -323,3 +323,11 @@ body {
 li.hidden ul {
   font-family: "Montserrat", sans-serif;
   font-size: .8em; }
+
+/* line 31, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+h2 {
+  margin-bottom: 10px; }
+
+/* line 35, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+img.twitter {
+  height: 20px; }
