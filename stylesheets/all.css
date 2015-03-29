@@ -14,7 +14,7 @@ button {
   cursor: pointer;
   display: inline-block;
   font-family: "Domine", serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
   font-weight: 600;
   line-height: 1;
   padding: 0.75em 1em;
@@ -47,7 +47,7 @@ label,
 select {
   display: block;
   font-family: "Domine", serif;
-  font-size: 1.4em; }
+  font-size: 1.2em; }
 
 /* line 16, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/base/_forms.scss */
 label {
@@ -70,7 +70,7 @@ textarea {
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06);
   box-sizing: border-box;
   font-family: "Domine", serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
   margin-bottom: 0.8em;
   padding: 0.53333em;
   transition: border-color;
@@ -172,7 +172,7 @@ body {
   -webkit-font-smoothing: antialiased;
   color: #333;
   font-family: "Domine", serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
   line-height: 1.6; }
 
 /* line 10, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/base/_typography.scss */
@@ -183,7 +183,7 @@ h4,
 h5,
 h6 {
   font-family: "Montserrat", sans-serif;
-  font-size: 1.4em;
+  font-size: 120% 1.2em;
   line-height: 1.4;
   margin: 0 0 0.8em; }
 
@@ -275,33 +275,51 @@ html {
   display: block;
   margin-right: 3.57866%;
   width: 48.21067%;
+  margin-right: 0;
   text-align: right; }
   /* line 89, /Users/Jstakeman/.rvm/gems/ruby-2.2.0/gems/neat-1.7.2/app/assets/stylesheets/grid/_span-columns.scss */
   .next:last-child {
     margin-right: 0; }
+
+/* line 26, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/partials/_layout.scss */
+#disqus_thread {
+  float: left;
+  display: block;
+  margin-right: 3.57866%;
+  width: 100%;
+  padding-top: 40px; }
+  /* line 89, /Users/Jstakeman/.rvm/gems/ruby-2.2.0/gems/neat-1.7.2/app/assets/stylesheets/grid/_span-columns.scss */
+  #disqus_thread:last-child {
+    margin-right: 0; }
+
+/* line 31, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/partials/_layout.scss */
+.menu {
+  position: fixed;
+  top: 15px;
+  left: 15px; }
+
+/* line 35, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/partials/_layout.scss */
+.nav {
+  margin-top: 0px; }
 
 /* line 10, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
 body {
   background-color: #f8f8f8;
   color: #222; }
 
-/* line 16, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
-h1 {
-  overflow: hidden;
-  text-indent: 101%;
-  white-space: nowrap;
-  background: url("/images/lifeLogo.svg"), center no-repeat;
-  background: url("/images/lifeLogo.svg"), center no-repeat;
-  display: block;
-  width: 68px; }
+/* line 15, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+.hidden {
+  display: none; }
 
-/* line 22, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+/* line 18, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
 .logo {
-  position: fixed;
-  top: 15px;
-  left: 15px;
   color: #3498db; }
 
-/* line 27, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+/* line 22, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
 .logo img {
   width: 35px; }
+
+/* line 26, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+li.hidden ul {
+  font-family: "Montserrat", sans-serif;
+  font-size: .8em; }
