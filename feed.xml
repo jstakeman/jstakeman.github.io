@@ -5,7 +5,7 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-03-30T23:27:00-06:00</updated>
+  <updated>2015-03-29T23:27:00-06:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
@@ -13,8 +13,8 @@
     <title>This cool thing: Instastock</title>
     <link rel="alternate" href="http://blog.url.com/posts/this-cool-thing-instastock/"/>
     <id>http://blog.url.com/posts/this-cool-thing-instastock/</id>
-    <published>2015-03-30T23:27:00-06:00</published>
-    <updated>2015-03-30T23:54:39-06:00</updated>
+    <published>2015-03-29T23:27:00-06:00</published>
+    <updated>2015-03-30T23:56:11-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
