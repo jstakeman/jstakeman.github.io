@@ -5,20 +5,48 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-03-31T22:25:00-06:00</updated>
+  <updated>2015-04-01T22:31:00-06:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Under the hood: Middleman is like Methadone</title>
+    <link rel="alternate" href="http://blog.url.com/posts/under-the-hood-middleman-is-like-methadone/"/>
+    <id>http://blog.url.com/posts/under-the-hood-middleman-is-like-methadone/</id>
+    <published>2015-04-01T22:31:00-06:00</published>
+    <updated>2015-04-01T23:28:08-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I am fascinated by content management systems. I have toyed around with: Wordpress, Movable Type, Drupal, Cascade, and others that I've forgotten. For work, I get to hack on Blackboard Learn and Moodle nearly every day. Years ago I even got to work on a cutting edge experimental scholarly digital publishing platform called &lt;a href="http://scalar.usc.edu"&gt;Scalar&lt;/a&gt;.  By "work on" I mean beta test and pitch a few wireframes to some very patient developers who then smiled, nodded, and patted me on the head. Check it out, the product is much better off without my suggestions.&lt;/p&gt;
+
+&lt;p&gt;I've even tried my hand at writing a few of my own.  My efforts generally came to an end once my hack job zombie creation proved that it could shuffle.&lt;/p&gt;
+
+&lt;p&gt;Writing your own blogging engine is a good early programming task.  It is very easy to be excited by it at the beginning.  They are easy to understand and produce a couple of interesting wrinkles to code around.  This practice has the romantic appeal of a carpenter making his own tools.  It has a seductive allure. It is a lumbersexual-Protestant-work-ethic-pulling-yourself-up-by-your-bootstraps wrapper for staring at your belly button.&lt;/p&gt;
+
+&lt;p&gt;Staring at your belly button is fantastic. My mother confirms that I used to spend hours folded up investigating mine.  At the right age, this narcissism is adorable and probably an important Freudian stage of development.  I still think it is a great learning-to-program project, but it also probably needs to stop at some point.&lt;/p&gt;
+
+&lt;p&gt;I have spent countless hours fiddling with tools to amplify my voice, when I would have been better off working on things for that voice to say.  At some point, preparation becomes procrastination.&lt;/p&gt;
+
+&lt;p&gt;I spent the better part of a week trying to figure out the perfect platform on which to run this site.  I even considered diving into the world of graph databases just to stay current.  In the end, I realized that what I wanted was to write every day.  The writing was the focus on this particular project. Learning a new technology was not.&lt;/p&gt;
+
+&lt;p&gt;I drew some inspiration from this &lt;a href="http://www.sitepoint.com/free-static-sites-middleman-github/"&gt;Sitepoint article&lt;/a&gt; by &lt;a href="http://benjamintan.io/"&gt;Benjamin Tan&lt;/a&gt; on &lt;a href="https://middlemanapp.com/"&gt;Middleman&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://middlemanapp.com/"&gt;Middleman&lt;/a&gt; has been a great way to start quickly and doesn't feel completely prepackaged either. I hope it breaks my cycle of technology-for-its-own-sake addiction by gently scratching my New Englander itch to build a site out of a tree I felled with my bare hands.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://middlemanapp.com/"&gt;Middleman&lt;/a&gt; is like Methadone. (They did not use this tagline)&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On Getting Married (part 1)</title>
     <link rel="alternate" href="http://blog.url.com/posts/on-getting-married/"/>
     <id>http://blog.url.com/posts/on-getting-married/</id>
     <published>2015-03-31T22:25:00-06:00</published>
-    <updated>2015-04-01T11:15:53-06:00</updated>
+    <updated>2015-04-01T20:54:04-06:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;I never thought much about getting married when I was younger.  I had decided that I was pro-marriage, but that was as far as that thought process went. I never fantasized about my wedding(which ended up being awesome). I never cut out clips of magazines or prayed for the day when my wife would arrive.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I never thought much about getting married when I was younger.  I had decided that I was pro-marriage, but that was as far as that thought process went. I never fantasized about my wedding (which ended up being awesome). I never cut out clips of magazines or prayed for the day when my wife would arrive.&lt;/p&gt;
 
 &lt;p&gt;Marriage was, for lack of a better term, transparent. I definitely imagined fatherhood, but in those moments the wife was always conveniently out of frame.  When I imagined childbirth, it always carried the cliche moment of her hand squeezing the life out of mine. Her face, though, was always obscured, like a neighbor in a Tim Allen sitcom.&lt;/p&gt;
 
