@@ -335,16 +335,17 @@ body {
 /* line 31, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
 li.hidden ul {
   font-family: "Montserrat", sans-serif;
-  font-size: .8em; }
+  font-size: .8em;
+  list-style-type: none; }
 
-/* line 36, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+/* line 37, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
 h2 {
   margin-bottom: 10px; }
 
-/* line 40, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+/* line 41, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
 img.twitter {
   height: 20px; }
 
-/* line 44, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+/* line 45, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
 .menu {
   list-style-type: none; }
