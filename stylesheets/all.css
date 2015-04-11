@@ -120,9 +120,9 @@ select {
 /* line 1, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/base/_lists.scss */
 ul,
 ol {
-  list-style-type: none;
-  margin: 0;
-  padding: 0; }
+  margin: 0 0 .8em 2em;
+  padding: 0;
+  font-size: 0.78em; }
 /* line 20, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/base/_lists.scss */
 dl {
   margin-bottom: 0.8em; }
@@ -133,6 +133,14 @@ dl {
   /* line 28, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/base/_lists.scss */
   dl dd {
     margin: 0; }
+
+/* line 33, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/base/_lists.scss */
+ul {
+  list-style-type: disc; }
+
+/* line 37, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/base/_lists.scss */
+ol {
+  list-style-type: decimal; }
 
 /* line 1, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/base/_tables.scss */
 table {
@@ -336,3 +344,7 @@ h2 {
 /* line 40, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
 img.twitter {
   height: 20px; }
+
+/* line 44, /Users/Jstakeman/Dropbox/Blog/jstakeman.github.io/source/stylesheets/all.css.scss */
+.menu {
+  list-style-type: none; }
