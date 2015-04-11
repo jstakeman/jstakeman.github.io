@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
-    <title>Life in Crayon</title>
+    <title>Life in Crayon | Domain Attack</title>
     <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
     <link href='http://fonts.googleapis.com/css?family=Domine:400,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -11,8 +11,8 @@
  </head>
   <body>
     
-    <div id="main" role="main">
-      <ul class="menu">
+   <div id="main" role="main">
+         <ul class="menu">
         <li>
           <a class="logo" href="#">
             <img src="/images/noun_392_cc.svg">
@@ -26,30 +26,46 @@
           </ul>
         </li>
       </ul>
-      <div class="post-container">
-        
-  <h2><a href="/posts/domain-attack/">Domain Attack</a></h2>
-  <p>This best defense is?</p>
-  <h2><a href="/posts/biscuits-and-family/">On Cooking: Biscuits and Family</a></h2>
-  <p>Cooking without the benefit of tradition...</p>
-  <h2><a href="/posts/creativity-and-narcissism/">Creativity and Narcissism</a></h2>
-  <p>Struggling with the apparent correlation</p>
-  <h2><a href="/posts/consumption-vs-creation/">Consumption vs Creation</a></h2>
-  <p>It can't just be entropy...</p>
-  <h2><a href="/posts/under-the-hood-middleman-is-like-methadone/">Under the hood: Middleman is like Methadone</a></h2>
-  <p>A little bit more about addiction and this site...</p>
-  <h2><a href="/posts/on-getting-married/">On Getting Married (part 1)</a></h2>
-  <p>Some things I thought about and some I didn't...</p>
-  <h2><a href="/posts/this-cool-thing-instastock/">This cool thing: Instastock</a></h2>
-  <p>A fun stock photo project from a senior at UNC Chapel Hill</p>
-  <h2><a href="/posts/this-damn-bag/">This Damn Bag</a></h2>
-  <p>Quiet torment and meditation...</p>
-  <h2><a href="/posts/impending-adulthood/">When am I supposed to feel like an adult?</a></h2>
-  <p>My current existential condition...</p>
+   <div class="post-container">
+    <h2>Domain Attack</h2>
+    <p>I was very excited to launch back into writing this morning, but when I went to the site there was only an error.  My browser couldn't find incrayon.com DNS record.</p>
+
+<p>I checked the hosting to see if they were doing all right and Github reported no problems.</p>
+
+<p>I remembered that I registered my domain through <a href="http://www.namecheap.com">namecheap.com</a> and a quick google search <a href="http://status.namecheap.com/archives/19240">revealed this update</a></p>
+
+<p>DNS servers under attack!</p>
+
+<p>I'd never thought of that aspect of picking my registrar and DNS provider.  Does anyone keep a record of how often and how successfully they get attacked?  Web hosts often tout u their uptime, but I'd never thought to look for that with DNS services.</p>
+
+<p>Anyone have any recommendations or strategies they use when looking at this sort of stuff?</p>
 
 
-      </div>
     </div>
+    <div class="footer">
+      <div class="previous">
+            Previous:
+          <a href="/posts/biscuits-and-family/">On Cooking: Biscuits and Family</a>
+      </div>
+    <div class="next">
+            &nbsp;
+        </div>
+      <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'lifeincrayon';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    </div>
+</div>
+</div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.2/velocity.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.2/velocity.ui.min.js"></script>
     <script type="text/javascript">

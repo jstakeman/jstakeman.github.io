@@ -5,10 +5,33 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-04-11T11:26:00-06:00</updated>
+  <updated>2015-04-11T16:48:00-06:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Domain Attack</title>
+    <link rel="alternate" href="http://blog.url.com/posts/domain-attack/"/>
+    <id>http://blog.url.com/posts/domain-attack/</id>
+    <published>2015-04-11T16:48:00-06:00</published>
+    <updated>2015-04-11T16:58:41-06:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I was very excited to launch back into writing this morning, but when I went to the site there was only an error.  My browser couldn't find incrayon.com DNS record.&lt;/p&gt;
+
+&lt;p&gt;I checked the hosting to see if they were doing all right and Github reported no problems.&lt;/p&gt;
+
+&lt;p&gt;I remembered that I registered my domain through &lt;a href="http://www.namecheap.com"&gt;namecheap.com&lt;/a&gt; and a quick google search &lt;a href="http://status.namecheap.com/archives/19240"&gt;revealed this update&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DNS servers under attack!&lt;/p&gt;
+
+&lt;p&gt;I'd never thought of that aspect of picking my registrar and DNS provider.  Does anyone keep a record of how often and how successfully they get attacked?  Web hosts often tout u their uptime, but I'd never thought to look for that with DNS services.&lt;/p&gt;
+
+&lt;p&gt;Anyone have any recommendations or strategies they use when looking at this sort of stuff?&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>On Cooking: Biscuits and Family</title>
     <link rel="alternate" href="http://blog.url.com/posts/biscuits-and-family/"/>
@@ -174,44 +197,6 @@ My goal of learning how to cook without making a mess is still very much in proc
 &lt;p&gt;This never bothered me. I never tried to reverse engineer it from the images of my dream children's faces.  I was never curious, which is weird for me.  That's the power of transparency. It is the naturalization of obfuscation. It is so powerful that it erases the very notion of focusing on it.&lt;/p&gt;
 
 &lt;p&gt;My wife is no longer transparent. I can see her face now. It's gently squished into the pillow and lit by the spill of my laptop screen. Her face has been remastered in all my dream reruns. Now I only have difficulty imagining it not being there.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>This cool thing: Instastock</title>
-    <link rel="alternate" href="http://blog.url.com/posts/this-cool-thing-instastock/"/>
-    <id>http://blog.url.com/posts/this-cool-thing-instastock/</id>
-    <published>2015-03-30T03:27:00-06:00</published>
-    <updated>2015-03-31T22:15:37-06:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Sometimes staring blankly into the void of the internet produces interesting results. It's like fishing. There are days when you sit contemplatively looking out on the placid waters (drunk), and there are days when you reel in something worthwhile.&lt;/p&gt;
-
-&lt;p&gt;Today was the latter.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://www.instastock.co"&gt;Instastock&lt;/a&gt; is a relatively new project from &lt;a href="http://www.dylansimel.com/"&gt;Dylan Simel&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;He joins the growing number of people and sites giving royalty free stock photos away… for free.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://www.unsplash.com"&gt;Unsplash&lt;/a&gt; and other sites have been invaluable to me in my day job, where I try to make a lot of online courses less ugly.&lt;/p&gt;
-
-&lt;p&gt;Dylan's work though interests me on a number of levels.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I admire his discipline of adding an image a day.&lt;/li&gt;
-  &lt;li&gt;The glimpses of North Carolina and his travels offer valuable and different perspectives.&lt;/li&gt;
-  &lt;li&gt;It is all shot with his iPhone.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After learning about his site, I immediately sat up from my internet fishing and&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;decided that I need that discipline of doing something every day&lt;/li&gt;
-  &lt;li&gt;realized that my unique contexts and circumstances might offer valuable and different perspectives&lt;/li&gt;
-  &lt;li&gt;remembered that I hate taking pictures with my Galaxy S4&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thanks for that &lt;a href="http://www.dylansimel.com/"&gt;Dylan Simel&lt;/a&gt;… thanks&lt;/p&gt;
 </content>
   </entry>
 </feed>
